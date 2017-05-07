@@ -1,3 +1,3 @@
-Hola prros
-Esto solo es el adt de la cola circular no modifiquen nada!!!
+Hola prros.
+Esto solo es el adt de la lista doble no modifiquen nada!!!
 :v
